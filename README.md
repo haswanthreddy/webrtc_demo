@@ -18,16 +18,15 @@
 ## 3 Read the Docs
   - below are the docs to go through to understand step by step how it is made, this repo is aimed for newbies, so made it simple
 
-
-
-
-
 <br/>
 <br/>
 
 # TODO
 - Add docs
 - Add auth
+
+<br/>
+<br/>
 
 # ISSUES
 - Audio need to removed from the users local stream to avoid hearing his own voice
